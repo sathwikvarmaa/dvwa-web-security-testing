@@ -10,11 +10,11 @@ The goal of this lab was to practice **OWASP Top 10 vulnerabilities** and unders
 
 ![DVWA](https://github.com/user-attachments/assets/2770eafa-9dd7-4de5-bd75-ee2c1566bc27)
 
-**Course:** DVWA for Ethical Hackers – Master Web App Attacks
-**Platform:** Udemy
-**Instructor:** Cyber Twinkle / Zeronyte Security
-**Completion Date:** March 11, 2026
-**Duration:** 2 Hours
+**Course:** DVWA for Ethical Hackers – Master Web App Attacks  
+**Platform:** Udemy  
+**Instructor:** Cyber Twinkle / Zeronyte Security  
+**Completion Date:** March 11, 2026  
+**Duration:** 2 Hours  
 
 ---
 
